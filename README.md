@@ -1,0 +1,2 @@
+# News-Notifier
+Desktop notifier
